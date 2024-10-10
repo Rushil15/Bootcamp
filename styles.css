@@ -1,0 +1,27 @@
+p {
+    color: #388697;
+    font-size: large;
+}
+body{
+    background-color: #FFFFF2;
+}
+ul{
+    color: #388697;
+}
+ol{
+    color: #388697;
+}
+.title{
+    font-size: medium;
+    color: red;
+    margin-left: 30rem;
+    margin-top: auto;
+}
+
+.image{
+    margin-left: 28rem;
+    border: #679934;
+    border-width: 1rem;
+    border-style: solid;
+    padding: 5%;
+}
